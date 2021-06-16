@@ -3,11 +3,11 @@
 This repository is an implementation of our ICDM 2020 paper [FeatureNorm: L2 Feature Normalization for Dynamic Graph Embedding](https://arxiv.org/abs/2103.00164)
 
 ## 1. Main idea
-Illustration of learning process without normalization         |
+Learning process without normalization         |
 :-------------------------:|
 ![](https://i.imgur.com/2kDSxgN.png)
 
-Illustration of learning process with the proposed normalization            |
+Learning process with the proposed normalization            |
 :-------------------------:|
 ![](https://i.imgur.com/o44aSqJ.png)
 
